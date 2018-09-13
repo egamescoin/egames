@@ -1,0 +1,30 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/egamescoin_bg.qm</file>
+        <file alias="ca">locale/egamescoin_ca.qm</file>
+        <file alias="cs">locale/egamescoin_cs.qm</file>
+        <file alias="da">locale/egamescoin_da.qm</file>
+        <file alias="de">locale/egamescoin_de.qm</file>
+        <file alias="en">locale/egamescoin_en.qm</file>
+        <file alias="en_US">locale/egamescoin_en_US.qm</file>
+        <file alias="es">locale/egamescoin_es.qm</file>
+        <file alias="fi">locale/egamescoin_fi.qm</file>
+        <file alias="fr_FR">locale/egamescoin_fr_FR.qm</file>
+        <file alias="hr">locale/egamescoin_hr.qm</file>
+        <file alias="it">locale/egamescoin_it.qm</file>
+        <file alias="ja">locale/egamescoin_ja.qm</file>
+        <file alias="ko_KR">locale/egamescoin_ko_KR.qm</file>
+        <file alias="nl">locale/egamescoin_nl.qm</file>
+        <file alias="pl">locale/egamescoin_pl.qm</file>
+        <file alias="pt">locale/egamescoin_pt.qm</file>
+        <file alias="pt_BR">locale/egamescoin_pt_BR.qm</file>
+        <file alias="ro_RO">locale/egamescoin_ro_RO.qm</file>
+        <file alias="ru">locale/egamescoin_ru.qm</file>
+        <file alias="sk">locale/egamescoin_sk.qm</file>
+        <file alias="sv">locale/egamescoin_sv.qm</file>
+        <file alias="tr">locale/egamescoin_tr.qm</file>
+        <file alias="uk">locale/egamescoin_uk.qm</file>
+        <file alias="zh_CN">locale/egamescoin_zh_CN.qm</file>
+        <file alias="zh_TW">locale/egamescoin_zh_TW.qm</file>
+    </qresource>
+</RCC>

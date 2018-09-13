@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=eGames
+Comment=eGames P2P Cryptocurrency
+Comment[fr]=eGames, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=eGames, eşten eşe kriptografik sanal para birimi
+Exec=egamescoin-qt %u
+Terminal=false
+Type=Application
+Icon=egamescoin128
+MimeType=x-scheme-handler/egamescoin;
+Categories=Office;Finance;
